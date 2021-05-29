@@ -1,4 +1,4 @@
-# 1 Construindo abstrações com funções
+<h1 style="color:#90c53f">1 Construindo abstrações com funções</h1>
 
 > Os atos da mente, nos quais ela exerce seu poder sobre simples ideias, são estes três principalmente: 1. Combinar várias ideias simples em uma só, e assim todas as ideias complexas são feitas. 2. Reunir duas ideias, simples ou complexas, e colocá-las uma sobre outra de modo a vê-las ao mesmo tempo, sem uni-las, pelo qual se obtém todas as suas ideias de relacionamentos. 3. Separá-las de todas as outras ideias que as acompanham em sua existência real: isso é chamado de abstração, e assim todas as suas ideias em geral são feitas.
 >
@@ -14,7 +14,7 @@ Felizmente, aprender a programar é consideravelmente menos perigoso do que apre
 
 Os engenheiros de software mestres têm a capacidade de organizar programas de forma que possam estar razoavelmente seguros de que os processos resultantes realizarão as tarefas pretendidas. Eles podem visualizar o comportamento de seus sistemas com antecedência. Eles sabem como estruturar programas para que problemas imprevistos não levem a consequências catastróficas e, quando surgem problemas, eles podem _depurar_ seus programas. Sistemas computacionais bem projetados, como automóveis ou reatores nucleares, são projetados de maneira modular, de modo que as peças possam ser construídas, substituídas e depuradas separadamente.
 
-## Programação em JavaScript
+<h3 style="color:#90c53f">Programação em JavaScript</h3>
 
 Precisamos de uma linguagem apropriada para descrever processos, e usaremos para isso a linguagem de programação JavaScript. Assim como nossos pensamentos diários são geralmente expressos em nossa linguagem natural (como inglês, francês ou japonês), e as descrições de fenômenos quantitativos são expressos com notações matemáticas, nossos pensamentos procedimentais serão expressos em JavaScript. O JavaScript foi desenvolvido no início da década de 1990 como uma linguagem de programação para controlar o comportamento dos navegadores da World Wide Web por meio de scripts embutidos em páginas. A linguagem foi concebida por Brendan Eich, originalmente com o nome de _Mocha_ , que mais tarde foi renomeado para _LiveScript_ e, finalmente, para JavaScript. O nome JavaScript é uma marca comercial da Oracle Corporation.
 
